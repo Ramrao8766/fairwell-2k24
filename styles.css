@@ -8,7 +8,7 @@ body {
     align-items: center;
     height: 100vh;
     overflow-y: auto;
-    overflow-x: hidden;
+    overflow-x: auto;
 }
 
 .container {
